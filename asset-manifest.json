@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/find-word/static/css/main.9f6d2c76.css",
+    "main.js": "/find-word/static/js/main.978de61d.js",
+    "index.html": "/find-word/index.html",
+    "main.9f6d2c76.css.map": "/find-word/static/css/main.9f6d2c76.css.map",
+    "main.978de61d.js.map": "/find-word/static/js/main.978de61d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6d2c76.css",
+    "static/js/main.978de61d.js"
+  ]
+}
