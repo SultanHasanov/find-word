@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/find-word/static/css/main.26e3e925.css",
-    "main.js": "/find-word/static/js/main.0f926590.js",
+    "main.js": "/find-word/static/js/main.ad9b81cc.js",
     "index.html": "/find-word/index.html",
     "main.26e3e925.css.map": "/find-word/static/css/main.26e3e925.css.map",
-    "main.0f926590.js.map": "/find-word/static/js/main.0f926590.js.map"
+    "main.ad9b81cc.js.map": "/find-word/static/js/main.ad9b81cc.js.map"
   },
   "entrypoints": [
     "static/css/main.26e3e925.css",
-    "static/js/main.0f926590.js"
+    "static/js/main.ad9b81cc.js"
   ]
 }
